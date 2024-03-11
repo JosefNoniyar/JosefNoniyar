@@ -78,8 +78,3 @@
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Hackers-violet?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/HTp3rkM8rRGLevVwFDW5wD)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-Hackers-white?style=for-the-badge&logo=telegram)](https://t.me/HTp3rkM8rRGLevVwFDW5wD)
-
-
-<a href="https://www.buymeacoffee.com/wwwmkoffice" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wwwmkoffice" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
