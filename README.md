@@ -1,3 +1,16 @@
+import upipayment
+
+def receive_payment(upi_id, amount):
+    # UPI पेमेंट प्राप्त करने के लिए लॉजिक यहाँ लिखें
+    print(f"Payment of {amount} received via UPI: {upi_id}")
+
+# UPI ID और राशि निर्धारित करें
+upi_id = "8349687858@axl"
+donation_amount = 100
+
+# दान प्राप्त करने के लिए फ़ंक्शन को कॉल करें
+receive_payment(upi_id, donation_amount)
+
 <h1 align="center">Hi 👋, I'm Josef Noniyar X</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
