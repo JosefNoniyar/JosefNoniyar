@@ -23,7 +23,7 @@
 ## [~] Donations And Support :
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/mrmayankhackerx" target="_blank">
+  <a href="https://www.buymeacoffee.com/MrMayankHackerX" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="border-radius:5px" height="25" width="100">
   </a>
 </p>
