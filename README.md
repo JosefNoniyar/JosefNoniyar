@@ -1,11 +1,8 @@
-![logo] ([https://github.com/JosefNoniyar/JosefNoniyar/blob/main/MrMayankHackerX.jpg]
-
+![logo](https://github.com/JosefNoniyar/JosefNoniyar/blob/main/MrMayankHackerX.jpg)
 <h1 align="center">Hi 👋, I'm Mr Mayank Hacker X</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
-<img align="right" alt="coding" width="400" src="https:/huser-
-images.githubusercontent.com/55389276/140866485-8fblc876-9a&f-4d6a-98de-08c498leaf70.gif'>
-
+<img align="right" alt="coding" width="400" src="https://tenor.com/en-IN/view/game-changer-game-changers-no-code-nocode-no-code-sticker-gif-5166429151720236148">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmayankhackerx&label=Profile%20views&color=0e75b6&style=flat" alt="mrmayankhackerx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmayankhackerx" alt="mrmayankhackerx" /></a> </p>
