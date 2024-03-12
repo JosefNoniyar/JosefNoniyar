@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href='https://ko-fi.com/mrmayankhackerx' target='_blank'>
-    <img src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for mayank' height='25' width="100">
+    <img src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Me A Coffee' height='25' width="100">
   </a>
 </p>
 
