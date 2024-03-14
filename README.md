@@ -53,24 +53,24 @@
 
 ## [~] Follow Me And Contact Us :
 
-- [![Facebook](https://img.shields.io/badge/Facebook-MrMayankHackerX-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/MrMayankHackerX)
+<p align="center">- [![Facebook](https://img.shields.io/badge/Facebook-MrMayankHackerX-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/MrMayankHackerX)
 
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-MrMayankHackerX-orange?style=for-the-badge&logo=whatsapp)](https://wa.me/+917879203213)
+<p align="center">- [![WhatsApp](https://img.shields.io/badge/WhatsApp-MrMayankHackerX-orange?style=for-the-badge&logo=whatsapp)](https://wa.me/+917879203213)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-MrMayankHackerX-yellow?style=for-the-badge&logo=telegram)](https://t.me/MrMayankHackerX)
+<p align="center">- [![Telegram](https://img.shields.io/badge/Telegram-MrMayankHackerX-yellow?style=for-the-badge&logo=telegram)](https://t.me/MrMayankHackerX)
 
-- [![Github](https://img.shields.io/badge/Github-MrMayankHackerX-green?style=for-the-badge&logo=github)](https://github.com/MrMayankHackerX)
+<p align="center">- [![Github](https://img.shields.io/badge/Github-MrMayankHackerX-green?style=for-the-badge&logo=github)](https://github.com/MrMayankHackerX)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-MrMayankHackerX-blue?style=for-the-badge&logo=gmail)](mailto:www.mkofficialgamingindustry@gmail.com)
+<p align="center">- [![Gmail](https://img.shields.io/badge/Gmail-MrMayankHackerX-blue?style=for-the-badge&logo=gmail)](mailto:www.mkofficialgamingindustry@gmail.com)
 
 
 ## [~] Join Our Groups :
 
-- [![Facebook](https://img.shields.io/badge/Facebook-MrMayankHackerX-indigo?style=for-the-badge&logo=facebook)](https://facebook.com/groups/3770903709821492/)
+<h1 align="center">- [![Facebook](https://img.shields.io/badge/Facebook-MrMayankHackerX-indigo?style=for-the-badge&logo=facebook)](https://facebook.com/groups/3770903709821492/)
 
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Hackers-violet?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/HTp3rkM8rRGLevVwFDW5wD)
+<h1 align="center">- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Hackers-violet?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/HTp3rkM8rRGLevVwFDW5wD)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Hackers-white?style=for-the-badge&logo=telegram)](https://t.me/HTp3rkM8rRGLevVwFDW5wD)
+<h1 align="center">- [![Telegram](https://img.shields.io/badge/Telegram-Hackers-white?style=for-the-badge&logo=telegram)](https://t.me/HTp3rkM8rRGLevVwFDW5wD)
 
 
 ## [~] Donations And Support :
