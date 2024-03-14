@@ -53,23 +53,23 @@
 
 ## [~] Follow Me And Contact Us :
 
-<p align="center">
+<h1 align="center">
   
   - [![Facebook](https://img.shields.io/badge/Facebook-MrMayankHackerX-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/MrMayankHackerX)
 
-<p align="center">
+<h1 align="center">
   
   - [![WhatsApp](https://img.shields.io/badge/WhatsApp-MrMayankHackerX-orange?style=for-the-badge&logo=whatsapp)](https://wa.me/+917879203213)
 
-<p align="center">
+<h1 align="center">
   
   - [![Telegram](https://img.shields.io/badge/Telegram-MrMayankHackerX-yellow?style=for-the-badge&logo=telegram)](https://t.me/MrMayankHackerX)
 
-<p align="center">
+<h1 align="center">
   
   - [![Github](https://img.shields.io/badge/Github-MrMayankHackerX-green?style=for-the-badge&logo=github)](https://github.com/MrMayankHackerX)
 
-<p align="center">
+<h1 align="center">
   
   - [![Gmail](https://img.shields.io/badge/Gmail-MrMayankHackerX-blue?style=for-the-badge&logo=gmail)](mailto:www.mkofficialgamingindustry@gmail.com)
 
